@@ -1,0 +1,32 @@
+body{
+	background-image: url("bodybackground-FAMPIC.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 0;
+    }
+    h1{
+	color: white;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+    margin-bottom: 20px;
+	
+	
+	
+	
+	
+	
+	}
+	
+	div{
+		
+		display:  flex;
+		align-content: center;
+		justify-content: center;
+		background-color: rgba(0,0,0,0,5);
+		height: 50px;
+		
+		
+	}
+	
